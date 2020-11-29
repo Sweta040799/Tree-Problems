@@ -70,4 +70,6 @@ int main(){
     SumNode(root);
     
     inorder(root);
+	
+	return 0;
 }
